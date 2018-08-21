@@ -16,10 +16,6 @@ public class Principale {
 	marcel.setPrenom(JOptionPane.showInputDialog(null, "Prénom ?", "Nouveau Prénom", JOptionPane.QUESTION_MESSAGE));
 	JOptionPane.showMessageDialog(null, marcel,"Personne",JOptionPane.INFORMATION_MESSAGE);
 	
-	
-	
-	
-	
-    }
+	}
 
 }
